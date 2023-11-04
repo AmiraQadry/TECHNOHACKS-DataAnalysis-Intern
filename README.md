@@ -23,7 +23,7 @@ To run the code and perform the data analysis, you need the following dependenci
 The repo contains the following files:
 
 - `titanic.csv`: The Titanic dataset in CSV format.
-- `titanic_analysis.ipynb`: Jupyter Notebook file containing the code for data analysis.
+- `Titanic Data Analysis.ipynb`: Jupyter Notebook file containing the code for data analysis.
 - `titanic.pbix"`: Data analysis Dashboard with Power Bi.
 - `README.md`: Readme file explaining the repository.
 
@@ -36,4 +36,6 @@ The `titanic_analysis.ipynb` notebook provides a step-by-step guide on how to pe
 5. Evaluation of the model's performance
 6. Create a data analysis dashboard with Power Bi
 
+## Dashboard
+![](https://github.com/AmiraQadry/Titanic-Data-Analysis/blob/main/Titanic.png)
 Happy analyzing!
