@@ -16,6 +16,7 @@ To run the code and perform the data analysis, you need the following dependenci
 - matplotlib
 - seaborn
 - scikit-learn
+- Power BI Desktop
 
 ## Code Overview
 
